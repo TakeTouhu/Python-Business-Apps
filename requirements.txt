@@ -1,0 +1,2 @@
+pywin32>=306
+anthropic>=0.40.0
